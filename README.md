@@ -6,5 +6,5 @@
 
 
 ### Screenshots
-![How page looks1]([img\screenshot1.jpg](https://github.com/mukul2345/A-Music-playing-website/blob/main/Spotify%20Clone/images/screenshot1.jpg))
+![How page looks1](https://github.com/mukul2345/A-Music-playing-website/blob/main/Spotify%20Clone/images/screenshot1.jpg)
 
